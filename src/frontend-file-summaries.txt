@@ -1,0 +1,12 @@
+{
+  "frontend/src/App.tsx": "Main application component that wraps the entire portfolio with ThemeProvider and renders all sections including Header, Hero, About, Projects, Skills, Contact, and Footer.",
+  "frontend/src/components/Header.tsx": "Fixed navigation header with smooth scrolling, mobile menu, theme toggle, and scroll-based styling changes.",
+  "frontend/src/components/Hero.tsx": "Hero section with animated gradient background, main heading, call-to-action buttons, and scroll indicator.",
+  "frontend/src/components/About.tsx": "About Me section featuring profile image, bio text, and resume download button with hover effects.",
+  "frontend/src/components/Projects.tsx": "Projects showcase grid with hover effects, project cards displaying images, descriptions, tags, and action buttons.",
+  "frontend/src/components/Skills.tsx": "Skills section displaying technical skills with progress bars organized by category and soft skills with icons.",
+  "frontend/src/components/Contact.tsx": "Contact section with contact information cards and a functional contact form with validation and toast notifications.",
+  "frontend/src/components/Footer.tsx": "Footer component with social media links and attribution to caffeine.ai with animated heart icon.",
+  "frontend/src/index.css": "Global styles with OKLCH color system, custom gradient colors, smooth animations, and custom scrollbar styling for both light and dark modes.",
+  "frontend/src/hooks/useQueries.ts": "Empty file as no backend queries are needed for this static portfolio website."
+}
